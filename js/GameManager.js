@@ -38,7 +38,7 @@ GameManager = {
 			game.load.spritesheet('obstacle7','assets/CoralSprite_v10.png',32,32);
     		game.load.spritesheet('bait7','assets/CoralSprite_v10.png',32,32);
 
-    		game.load.spritesheet('bobbit','assets/Bobbit_V1.png',32,32);
+    		game.load.spritesheet('bobbit','assets/Bobbit_v1.png',32,32);
 			game.load.spritesheet('explode','assets/DeathSprite.png',32,32);
 
     		game.load.bitmapFont('carrier_command','assets/fonts/carrier_command.png','assets/fonts/carrier_command.xml');
